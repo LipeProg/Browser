@@ -1,0 +1,10 @@
+Esse navegador esta servindo para abrir um site especifico.
+
+é melhor para velocidade de alguns processos, como esse navegador vai ser usado para outro projeto serve perfeitamente.
+
+
+#Como iniciar#
+
+isso é simples apenas especifique a url que voce quer acessar no main.js
+
+depois apenas inicie digitando no terminal o comando npm start
